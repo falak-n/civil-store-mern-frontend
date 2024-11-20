@@ -1,0 +1,240 @@
+
+
+
+  [
+    
+    {
+      "_id": 1,
+      "title": "Steel Structures: Design and Behavior",
+      "description": "A detailed analysis of the behavior of steel structures.",
+      "category": "business",
+      "trending": true,
+      "coverImage": "book-1.png",
+      "oldPrice": 59.99,
+      "newPrice": 47.99
+    },
+    {
+      "_id": 2,
+      "title": "Structural Analysis and Design",
+      "description": "A practical approach to structural analysis.",
+      "category": "Structural Engineering",
+      "trending": false,
+      "coverImage": "book-2.png",
+      "oldPrice": 54.99,
+      "newPrice": 42.99
+    },
+    {
+      "_id": 3,
+      "title": "Foundation Engineering Handbook",
+      "description": "Practical guide to structural foundation engineering.",
+      "category": "Structural Engineering",
+      "trending": false,
+      "coverImage": "book-3.png",
+      "oldPrice": 64.99,
+      "newPrice": 52.99
+    },
+    {
+      "_id": 4,
+      "title": "Structural Dynamics",
+      "description": "Fundamentals and applications of structural dynamics.",
+      "category": "Structural Engineering",
+      "trending": true,
+      "coverImage": "book-5.png",
+      "oldPrice": 59.99,
+      "newPrice": 49.99
+    },
+    {
+      "_id": 5,
+      "title": "Principles of Geotechnical Engineering",
+      "description": "Covers soil mechanics and foundation engineering concepts.",
+      "category": "Fiction",
+      "trending": true,
+      "coverImage": "book-21.png",
+      "oldPrice": 54.99,
+      "newPrice": 44.99
+    },
+    {
+      "_id": 6,
+      "title": "Soil Mechanics and Foundations",
+      "description": "Core principles of soil mechanics and foundation engineering.",
+      "category": "Geotechnical Engineering",
+      "trending": false,
+      "coverImage": "book-22.png",
+      "oldPrice": 48.99,
+      "newPrice": 38.99
+    },
+    {
+      "_id": 7,
+      "title": "Geotechnical Earthquake Engineering",
+      "description": "Fundamentals of earthquake engineering in geotechnical practice.",
+      "category": "Geotechnical Engineering",
+      "trending": true,
+      "coverImage": "book-23.png",
+      "oldPrice": 69.99,
+      "newPrice": 58.99
+    },
+    
+    {
+      "_id": 8,
+      "title": "Geotechnical Modeling",
+      "description": "A modern approach to geotechnical modeling techniques.",
+      "category": "Geotechnical Engineering",
+      "trending": false,
+      "coverImage": "book-24.png",
+      "oldPrice": 72.99,
+      "newPrice": 62.99
+    },
+    {
+      "_id": 9,
+      "title": "Traffic and Highway Engineering",
+      "description": "An extensive guide on traffic and highway systems.",
+      "category": "Transportation Engineering",
+      "trending": true,
+      "coverImage": "book-6.png",
+      "oldPrice": 59.99,
+      "newPrice": 49.99
+    },
+    {
+      "_id": 10,
+      "title": "Urban Transport Planning",
+      "description": "Essentials of urban transportation planning.",
+      "category": "transportation",
+      "trending": false,
+      "coverImage": "book-7.png",
+      "oldPrice": 54.99,
+      "newPrice": 44.99
+    },
+    {
+      "_id": 11,
+      "title": "Pavement Design and Materials",
+      "description": "Guidelines for designing and maintaining pavements.",
+      "category": "Transportation Engineering",
+      "trending": true,
+      "coverImage": "book-8.png",
+      "oldPrice": 64.99,
+      "newPrice": 54.99
+    },
+    {
+      "_id": 12,
+      "title": "Highway Capacity Manual",
+      "description": "Reference for analyzing highway capacity and quality.",
+      "category": "Transportation Engineering",
+      "trending": false,
+      "coverImage": "book-9.png",
+      "oldPrice": 72.99,
+      "newPrice": 62.99
+    },
+    {
+      "_id": 13,
+      "title": "Public Transportation Systems",
+      "description": "Analysis and implementation of public transit systems.",
+      "category": "Transportation Engineering",
+      "trending": true,
+      "coverImage": "book-10.png",
+      "oldPrice": 59.99,
+      "newPrice": 49.99
+    },
+    {
+      "_id": 14,
+      "title": "Hydraulics in Civil and Environmental Engineering",
+      "description": "Insights into hydraulics for civil and environmental engineers.",
+      "category": "fluid",
+      "trending": false,
+      "coverImage": "book-11.png",
+      "oldPrice": 57.99,
+      "newPrice": 47.99
+    },
+    {
+      "_id": 15,
+      "title": "Fluid Mechanics for Engineers",
+      "description": "Foundational fluid mechanics tailored for engineers.",
+      "category": "Water Resources Engineering",
+      "trending": false,
+      "coverImage": "book-12.png",
+      "oldPrice": 64.99,
+      "newPrice": 53.99
+    },
+    {
+      "_id": 16,
+      "title": "Open Channel Flow",
+      "description": "Design principles and analysis of open channel flow systems.",
+      "category": "Water Resources Engineering",
+      "trending": true,
+      "coverImage": "book-13.png",
+      "oldPrice": 52.99,
+      "newPrice": 42.99
+    },
+    {
+      "_id": 17,
+      "title": "Groundwater Hydrology",
+      "description": "A detailed exploration of groundwater hydrology systems.",
+      "category": "Water Resources Engineering",
+      "trending": false,
+      "coverImage": "book-14.png",
+      "oldPrice": 68.99,
+      "newPrice": 58.99
+    },
+    {
+      "_id": 18,
+      "title": "Water Resources Systems Analysis",
+      "description": "Advanced analysis of water resource systems.",
+      "category": "Water Resources Engineering",
+      "trending": true,
+      "coverImage": "book-25.png",
+      "oldPrice": 69.99,
+      "newPrice": 59.99
+    },
+    {
+      "_id": 19,
+      "title": "Introduction to Environmental Engineering",
+      "description": "Comprehensive insights into environmental engineering principles.",
+      "category": "Environmental Engineering",
+      "trending": false,
+      "coverImage": "book-15.png",
+      "oldPrice": 58.99,
+      "newPrice": 48.99
+    },
+    {
+      "_id": 20,
+      "title": "Air Pollution Control Engineering",
+      "description": "Techniques for air pollution mitigation.",
+      "category": "Environmental Engineering",
+      "trending": true,
+      "coverImage": "book-16.png",
+      "oldPrice": 64.99,
+      "newPrice": 54.99
+    },
+    {
+      "_id": 21,
+      "title": "Solid Waste Engineering",
+      "description": "Management and design principles for solid waste systems.",
+      "category": "environment",
+      "trending": true,
+      "coverImage": "book-18.png",
+      "oldPrice": 68.99,
+      "newPrice": 58.99
+    },
+    {
+      "_id": 22,
+      "title": "Environmental Hydraulics",
+      "description": "Intersections of hydraulics and environmental engineering.",
+      "category": "Environmental Engineering",
+      "trending": false,
+      "coverImage": "book-19.png",
+      "oldPrice": 54.99,
+      "newPrice": 44.99
+    },
+    {
+      "_id": 23,
+      "title": "Wastewater Engineering",
+      "description": "Design of wastewater treatment facilities and systems.",
+      "category": "Environmental Engineering",
+      "trending": true,
+      "coverImage": "book-20.png",
+      "oldPrice": 64.99,
+      "newPrice": 54.99
+    }
+  ]
+  
+
+  
